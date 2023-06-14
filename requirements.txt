@@ -6,5 +6,4 @@ streamlit==1.18.1
 flask
 openai
 pickle5
-os
 faiss-cpu==1.7.4

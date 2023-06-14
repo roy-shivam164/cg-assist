@@ -14,7 +14,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import RetrievalQA, ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
 import os
-import pickle
+import pickle5 as pickle
 app = Flask(__name__)
 
 @app.route('/')
